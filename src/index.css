@@ -110,3 +110,17 @@ footer {
   margin-top: 30px;
   text-align: center;
 }
+
+.about {
+  display: flex;
+  justify-content: center;
+  margin-top: 60px;
+}
+
+.layer{
+  position: absolute;
+}
+
+#link{
+  padding-left: 17px;
+}
