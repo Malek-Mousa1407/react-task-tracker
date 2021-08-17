@@ -7,19 +7,12 @@
     npm i
     ```
 
-### To run the development build:
+### To run the mock API:
+#### Note: Go to the '/tasks' route to see the JSON.
 2. ```bash
+    npm run server
+    ```
+### To run the development build:
+3. ```bash
     npm run start
     ```
-
-### To create a production build:
-3. ```bash
-    npm run build
-    ```
-
-### To run the production build:
-4. ```bash
-    npm i -g serve
-
-    serve -s build -p 8000
-```
