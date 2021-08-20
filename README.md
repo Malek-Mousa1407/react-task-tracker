@@ -7,7 +7,7 @@
     npm i
     ```
 
-### To run the mock API:
+### To run fake json-server:
 #### Note: Go to the '/tasks' route to see the JSON.
 2. ```bash
     npm run server
